@@ -51,4 +51,5 @@ For issues or questions, please refer to the YOLOv9 GitHub repository or the Rob
 
 [Train YOLOv9 Object Detection on Custom Dataset](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/train-yolov9-object-detection-on-custom-dataset.ipynb#scrollTo=pixgo4qnjdoU)
 
+<img width="474" alt="image" src="https://github.com/user-attachments/assets/313172b5-49ed-4a89-bd7c-4b6261c73cbb">
 
